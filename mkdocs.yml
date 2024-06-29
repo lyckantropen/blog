@@ -1,4 +1,4 @@
-site_name: lyckantropen blog
+site_name: Relevance
 site_url: https://lyckantropen.github.io/blog/
 
 theme:
@@ -8,8 +8,8 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: blue
-      accent: indigo
+      primary: steelblue
+      accent: skyblue
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
@@ -17,8 +17,8 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: blue
-      accent: blue
+      primary: steelblue
+      accent: skyblue
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode

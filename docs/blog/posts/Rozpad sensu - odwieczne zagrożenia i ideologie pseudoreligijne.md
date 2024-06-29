@@ -8,6 +8,7 @@ categories:
 tags:
 ---
 ![[Pasted image 20240629132514.png]]
+
 Część pierwsza: [[Jak rewolucja naukowa zniszczyła sens]]
 
 # Filozofia Johna Vervaekego - Część II
