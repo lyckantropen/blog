@@ -1,4 +1,4 @@
-# Filozofia Johna Vervaekego — Część 1.
+# Filozofia Johna Vervaekego - Część 1.
 
 Oto artykuł o kanadyjskim psychologu pracującym na Uniwersytecie w Toronto. I
 nie jest nim Jordan Peterson. Nie sposób jednak zacząć bez odwołania do “kolegi
@@ -12,18 +12,18 @@ przekaz dobitnie wybrzmiał.
 
 ![[Pasted image 20240629130602.png]]
 
-Niemniej — jest co porównywać. Obaj poruszają temat dogłębnie odczuwanego przez
+Niemniej - jest co porównywać. Obaj poruszają temat dogłębnie odczuwanego przez
 wielu ludzi żyjących w zlaicyzowanych, wysoko rozwiniętych społeczeństwach
 Zachodu braku życiowego celu czy też poczucia sensu. Obaj odnoszą się z jednej
-strony do symboliki i religii, z drugiej — do psychologii, neuronauki i teorii
+strony do symboliki i religii, z drugiej - do psychologii, neuronauki i teorii
 ewolucji. Obu cechuje optymizm względem owego kryzysu poczucia sensu, ale
 znacząco różnią się w kwestii potencjalnych rozwiązań. Peterson zdecydowanie
-konkluduje, że kryzys poczucia sensu ma źródła polityczne, konkretnie — w
+konkluduje, że kryzys poczucia sensu ma źródła polityczne, konkretnie - w
 dekonstrukcji tradycyjnych systemów wartości, motywowanej ideologią
 postmodernistyczną (nie jest jasne, czy takie coś w ogóle istnieje), a
 rozwiązaniem jest stawianie tej dekonstrukcji oporu i skupienie się na
 samorozwoju według pewnych zasad. Owe zasady są częściowo oparte na tradycji
-judeochrześcijańskiej, częściowo zaś — na dorobku dwudziestowiecznej psychologii
+judeochrześcijańskiej, częściowo zaś - na dorobku dwudziestowiecznej psychologii
 behawioralnej. Peterson broni tradycyjnych wartości nie na gruncie
 ideologicznym, ale poprzez wykazanie ich głębi jako użytecznych, wynikających
 niejako z konieczności adaptacji ludzkiego poznania drogowskazów, które
@@ -45,7 +45,7 @@ Petersonowi trzeba oddać, że trafnie diagnozuje beznadzieję sytuacji, w jakie
 członkowie nowoczesnych świeckich zachodnich społeczeństw się znaleźli. Z jednej
 strony przynajmniej większość z nich nie musi troszczyć się o przetrwanie i dach
 nad głową, a do tego ma zapewnioną rozrywkę i szeroki wybór w kwestii konsumpcji
-dóbr i usług, z drugiej — nowoczesność daje im to i nic więcej. Kim jestem? Co
+dóbr i usług, z drugiej - nowoczesność daje im to i nic więcej. Kim jestem? Co
 mam robić? Jaki jest *sens* tego wszystkiego? *Po co* to wszystko? Jedyne, co
 nowoczesność jest w stanie odpowiedzieć, to: *jesteś wolny*.
 
@@ -66,8 +66,7 @@ historycznymi, szkołami filozoficznymi i tradycjami mądrości.
 
 Analiza zagadnienia kryzysu sensu obejmuje 50 filmów udostępnionych na kanale
 Vervaekego na YouTube. Jest to seria godzinnych, świetnie przygotowanych
-wykładów,
-zatytułowana [_Awakening From The Meaning Crisis_](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) (_Przebudzenie
+wykładów, zatytułowana [_Awakening From The Meaning Crisis_](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) (_Przebudzenie
 z Kryzysu Sensu_). Vervaeke, wychodząc od postawienia problemu, opisuje
 kognitywną historię gatunku ludzkiego, począwszy od prehistorii, przez
 starożytność, antyk, średniowiecze, rewolucję naukową, aż do współczesności. Ta
@@ -76,8 +75,8 @@ patterns_), które ze względu na samą naszą konstrukcję poznawczą stawiają
 obliczu ciągłego zagrożenia samooszukiwaniem się i samozniszczeniem. Posłuży mu
 ona także do wyizolowania wspólnych części najważniejszych historycznych
 odpowiedzi, chroniących niegdyś ludzkość przed zagrożeniami ze strony
-wspomnianych odwiecznych wzorców kognitywnych, które — choć czynią nas
-adaptacyjnie inteligentnymi — mogą w niesprzyjających warunkach tworzyć
+wspomnianych odwiecznych wzorców kognitywnych, które - choć czynią nas
+adaptacyjnie inteligentnymi - mogą w niesprzyjających warunkach tworzyć
 pasożytnicze, niszczące pętle. Tych odpowiedzi dostarczały szkoły mądrości,
 religie, dawne *ekosystemy praktyk*. Następnie Vervaeke analizuje owe odwieczne
 wzorce poznawcze, odwołując się do dorobku współczesnej kognitywistyki, w którą
@@ -117,7 +116,7 @@ rozumieniu, w jakim sens posiada zdanie. Jeśli zdanie ma sens, znaczy to, że
 posiada treść, że jego części wzajemnie do siebie pasują i że jest zrozumiałe.
 Metafora jest jedną z podstawowych zdolności naszego poznania. Jest to jedna z
 ewolucyjnych adaptacji pozwalających na radzenie sobie z ograniczoną mocą
-przetwarzania naszego mózgu. Dzięki metaforze — zamiast musieć radzić sobie z
+przetwarzania naszego mózgu. Dzięki metaforze - zamiast musieć radzić sobie z
 danym problemem, z całą jego unikalnością, możemy porównać go do czegoś, co już
 znamy, i dzięki temu uzyskać rozwiązanie. Jest to jeden ze
 sposobów *rozumienia* danego zagadnienia. Sęk w tym, że ludzie naprawdę lubią
@@ -140,11 +139,11 @@ niedoskonałości poznania i błędy, jakie człowiek popełnia, próbując
 interpretować rzeczywistość, oraz jak przez to zadaje sobie i innym cierpienie.
 Ów okres, zwany Epoką Osiową (nazwę zawdzięcza Jaspersowi), zaowocował
 wykształceniem się szkół mądrości: platońskiej, buddyjskiej i hebrajskiej.
-Wszystkie je łączy wspólna struktura mitologiczna: istnieją dwa światy — niższy
+Wszystkie je łączy wspólna struktura mitologiczna: istnieją dwa światy - niższy
 i wyższy.
 
 W szkole platońskiej świat niższy to świat dnia codziennego. Nad nim istnieje
-świat wyższy — prawdziwy, dostrzegalny tylko przez mędrców. W buddyzmie świat
+świat wyższy - prawdziwy, dostrzegalny tylko przez mędrców. W buddyzmie świat
 niższy to świat obarczony cierpieniem, z którego można przenieść się do świata
 wolnego od cierpienia poprzez oświecenie. U Hebrajczyków świat niższy to świat
 zniewolenia, a wyższym jest Ziemia Obiecana. Te mitologie również dostarczały
@@ -153,7 +152,7 @@ niedoskonały i dlaczego cierpimy. W Europie do spójnego porządku nomologiczne
 najbardziej przyczynił się Arystoteles, który swoją teorią poznania jako
 konforemności stworzył system, który u swoich założeń utożsamiał zrozumiałość z
 realnością. Rozumienie jest tożsame z kontaktem z rzeczywistością. Co więcej,
-wszystko działa według tych samych zasad, co ludzie — kierując się celowością.
+wszystko działa według tych samych zasad, co ludzie - kierując się celowością.
 Kamień spada, bo jego celem jest ziemia. Nie różnimy się specjalnie od reszty
 świata.
 
@@ -173,8 +172,8 @@ drodze rozwoju. Podjął to później św. Augustyn, nazywając tę aspirację m
 i kładąc podwaliny pod cały system normatywny chrześcijaństwa. W ramach porządku
 normatywnego istniał jasno określony kierunek rozwoju. Wszystkie szkoły mądrości
 wywodzące się z Epoki Osiowej posiadały jakieś aspiracyjne rozumienie mądrości
-oraz praktyki pozwalającej ją kultywować, jak również instytucje — akademie,
-klasztory, uniwersytety — których wysiłek był poświęcony dokładnie temu celowi.
+oraz praktyki pozwalającej ją kultywować, jak również instytucje - akademie,
+klasztory, uniwersytety - których wysiłek był poświęcony dokładnie temu celowi.
 
 Porządek narracyjny to miejsce człowieka w historii, to wskazanie, skąd
 przyszliśmy i dokąd zmierzamy. Podstawą europejskiego porządku narracyjnego
@@ -195,24 +194,24 @@ podtrzymywały cywilizację.
 Wszystko to rozpadło się po rewolucji naukowej, ale warto zauważyć wcześniejsze
 sygnały. Po pierwsze, św. Tomasz z Akwinu przeprowadził niemałą rewolucję w
 mitologii dwóch światów, utożsamiając świat niższy ze światem doczesnym, a
-wyższy — z ponadnaturalnym. O ile świat ponadnaturalny poznać można jedynie
+wyższy - z ponadnaturalnym. O ile świat ponadnaturalny poznać można jedynie
 miłością, o tyle świat doczesny dostępny jest poprzez studiowanie przyrody.
 Odtąd badanie przyrody rozumiano jako badanie Stworzenia, nadając temu wysiłkowi
 szczególne znaczenie. Po drugie, w Kościele nastąpił kryzys spowodowany
 nadejściem Reformacji. Marcin Luter ogłosił, że każdy człowiek jako jednostka
 jest w stanie sam komunikować się z Bogiem i żadna instytucja nie powinna mieć
 prawa pośredniczenia w tym kontakcie. W parze z tym postulatem wkroczyła
-doktryna predestynacji — wola Boża jest nieodgadniona, a próba wpływania na Jego
+doktryna predestynacji - wola Boża jest nieodgadniona, a próba wpływania na Jego
 decyzję (co do zbawienia lub potępienia jednostki) jest przejawem pychy. Jedyne,
 co gwarantuje zbawienie, to arbitralne wyznaczenie *mnie i to konkretnie
-mnie* do zbawienia. Co więcej, Luter uważał ówczesne instytucje mądrości —
-klasztory — za siedliska pychy, wnosząc o ich zamykanie. Tomasz oddalił Niebo,
+mnie* do zbawienia. Co więcej, Luter uważał ówczesne instytucje mądrości -
+klasztory - za siedliska pychy, wnosząc o ich zamykanie. Tomasz oddalił Niebo,
 Luter pogłębił nie tylko indywidualizm, ale też narcyzm. Idea odnajdywania
 własnej, indywidualnej mądrości zaczęła się już wtedy.
 
 Kolejne odkrycia rewolucji naukowej poddawały w wątpliwość kolejne porządki.
 Przewrót kopernikański nie pozwalał na dłuższe utrzymywanie człowieka w centrum
-Bożego planu. Galileusz odkrył, że materia jest *bezwładna* — nie posiada
+Bożego planu. Galileusz odkrył, że materia jest *bezwładna* - nie posiada
 żadnego celu i porusza się tylko dlatego, że została wcześniej poruszona przez
 inną materię. Zaczęto stawiać pytania o to, czym w takim razie jest człowiek i
 jaka jest jego relacja z materią. Ostatecznie, mimo że materia jest bezwolna i
@@ -238,8 +237,8 @@ matematyki, ale nie ma to nic wspólnego z mądrością! Zmierzenie masy elektro
 nie przybliża nas w żadnym stopniu do odpowiedzi na pytanie: jak żyć dobrze?
 
 Widzimy zatem, jak trudne jest znalezienie rozwiązania kryzysu sensu. Do czasu
-rewolucji naukowej dysponowaliśmy światopoglądem, który sytuował nas — razem z
-naszymi dążeniami i naszą historią — w ciągłości ze światem. Od tamtego czasu
+rewolucji naukowej dysponowaliśmy światopoglądem, który sytuował nas - razem z
+naszymi dążeniami i naszą historią - w ciągłości ze światem. Od tamtego czasu
 rozpad postępuje. Jakiekolwiek rozwiązanie okaże się właściwe, będzie ono
 musiało być usytuowane we współczesnej nauce, jednocześnie odpowiadając na
 ludzką potrzebę poczucia sensu oraz chroniąc nas przed zagrożeniami niesionymi
