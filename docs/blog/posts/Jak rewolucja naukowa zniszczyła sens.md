@@ -1,4 +1,13 @@
-# Filozofia Johna Vervaekego - Część 1.
+---
+draft: false
+date: 2022-08-28
+slug: john-vervaeke-ii
+categories:
+  - kognitywistyka
+  - john vervaeke
+tags: []
+---
+# Filozofia Johna Vervaekego - Część I
 
 Oto artykuł o kanadyjskim psychologu pracującym na Uniwersytecie w Toronto. I
 nie jest nim Jordan Peterson. Nie sposób jednak zacząć bez odwołania do “kolegi

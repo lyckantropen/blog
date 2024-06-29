@@ -1,3 +1,12 @@
+---
+draft: false
+date: 2024-06-28
+slug: bajka-o-sterowcach
+categories:
+  - polityka
+  - urbanistyka
+tags:
+---
 # Bajka o sterowcach
 
 Postaram się wykazać, że wolność indywidualna definiowana po libertariańsku ma

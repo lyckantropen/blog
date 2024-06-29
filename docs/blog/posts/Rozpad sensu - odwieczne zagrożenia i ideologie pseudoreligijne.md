@@ -1,8 +1,17 @@
+---
+draft: false
+date: 2023-06-19
+slug: john-vervaeke-i
+categories:
+  - kognitywistyka
+  - john vervaeke
+tags:
+---
 ![[Pasted image 20240629130554.png]]
 
 Część pierwsza: [[Jak rewolucja naukowa zniszczyła sens]]
 
-# Filozofia Johna Vervaekego - Część 2.
+# Filozofia Johna Vervaekego - Część II
 
 W poprzedniej części omawiałem część historii kryzysu sensu w rozumieniu Johna
 Vervaekego od starożytności po Rewolucję Naukową. Po Kartezjuszu kryzys rozwijał
