@@ -19,7 +19,7 @@ się o nim niezależnie. Jest to jednak konieczność przykra, bo John Vervaeke 
 potrzebuje ani Jordana Petersona, ani bycia z nim porównywanym, żeby jego
 przekaz dobitnie wybrzmiał.
 
-![[Pasted image 20240629130602.png]]
+![[Pasted image 20240629132529.png]]
 
 Niemniej - jest co porównywać. Obaj poruszają temat dogłębnie odczuwanego przez
 wielu ludzi żyjących w zlaicyzowanych, wysoko rozwiniętych społeczeństwach
