@@ -109,9 +109,6 @@ jedynie pośrednio poprzez mechanizm dysocjacji, ale nie ma zasadniczo możliwo�
 Systemy sztuczne mogą to zrobić w sposób bezpośredni. Zwierzę lub człowiek nie
 ma takiego wyboru, będąc żywym organizmem z faktycznymi ograniczeniami (których
 cały system emocji, motywacji ku przetrwaniu i reagowania na zagrożenia jest
-ewolucyjnym produktem). Zwierzę lub człowiek nie
-ma takiego wyboru, będąc żywym organizmem z faktycznymi ograniczeniami (których
-cały system emocji, woli przetrwania i reagowania na zagrożenie jest ewolucyjnym
-produktem).
+ewolucyjnym produktem).
 
 Ja bym (póki co) spał spokojnie.
