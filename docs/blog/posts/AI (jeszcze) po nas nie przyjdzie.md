@@ -24,7 +24,7 @@ Pierwszy z nich dotyczy tego, co owe systemy faktycznie robią. Drugi to sposób
 w jaki inteligencję rozumie się przeważnie w znaczeniu potocznym – który to
 sposób na potrzeby rozważań uznałbym za "właściwy".
 
-Ten sposób zwykle zakłada w sposób milczący zwinięcie w rulon inteligencji –
+Ten sposób zwykle zakłada milcząco wciągnięcie w pojęcie inteligencji –
 wraz ze zdolnościami poznawczymi – również przezroczystych dla nas ludzkich (i
 zwierzęcych!) motywacji wynikających z naszego tła ewolucyjnego: chęci
 przetrwania, hierarchii potrzeb oraz emocji, mających niezbywalny wymiar
