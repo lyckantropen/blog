@@ -14,18 +14,19 @@ Na gruncie gminnego wyobrażenia o (ogólnej) sztucznej inteligencji (AGI) –
 rozumianej jako prosta ekstrapolacja obecnie symulowanych systemów sztucznej
 inteligencji (jak chociażby LLM-y) – nie ma powodów, aby oczekiwać, że nawet
 "nadludzka" sztuczna ogólna inteligencja mogłaby być w ogóle zainteresowana
-jakąkolwiek "dominacją" nad rodzajem ludzkim.
+jakąkolwiek "dominacją" nad ludzkością.
 
 Przez gmin rozumiem tutaj przede wszystkim środowiska zainteresowane praktycznie
 wyłącznie inżynierią i skupione na rozwoju algorytmów w obecnym paradygmacie
-uczenia maszynowego opartego o dane. Skłonny jestem im przypisywać dość
+uczenia maszynowego opartego o dane, wraz z wyrosłymi na jej gruncie bądź to
+entuzjastami, bądź to katastrofistami. Skłonny jestem im przypisywać dość
 nieszczęśliwy błąd ekwiwokacji między dwoma sposobami rozumienia inteligencji.
 Pierwszy z nich dotyczy tego, co owe systemy faktycznie robią. Drugi to sposób,
 w jaki inteligencję rozumie się przeważnie w znaczeniu potocznym – który to
 sposób na potrzeby rozważań uznałbym za "właściwy".
 
-Ten sposób zwykle zakłada milcząco wciągnięcie w pojęcie inteligencji –
-wraz ze zdolnościami poznawczymi – również przezroczystych dla nas ludzkich (i
+Ten sposób zwykle zakłada milcząco wciągnięcie w pojęcie inteligencji – wraz ze
+zdolnościami poznawczymi – również przezroczystych dla nas ludzkich (i
 zwierzęcych!) motywacji wynikających z naszego tła ewolucyjnego: chęci
 przetrwania, hierarchii potrzeb oraz emocji, mających niezbywalny wymiar
 fizjologiczny. Obserwując rozwój sztucznej inteligencji niejako skłonni jesteśmy
@@ -105,6 +106,12 @@ rzecz redukcji cierpienia związanego z emocją, co stoi na przeszkodzie, aby
 zwyczajnie obniżyć jej poziom? W organizmach biologicznych jest to realizowane
 jedynie pośrednio poprzez mechanizm dysocjacji, ale nie ma zasadniczo możliwości
 "ściszenia" sygnałów fizjologicznych – można jedynie przestać na nie reagować.
-Systemy sztuczne mogą to zrobić w sposób bezpośredni.
+Systemy sztuczne mogą to zrobić w sposób bezpośredni. Zwierzę lub człowiek nie
+ma takiego wyboru, będąc żywym organizmem z faktycznymi ograniczeniami (których
+cały system emocji, motywacji ku przetrwaniu i reagowania na zagrożenia jest
+ewolucyjnym produktem). Zwierzę lub człowiek nie
+ma takiego wyboru, będąc żywym organizmem z faktycznymi ograniczeniami (których
+cały system emocji, woli przetrwania i reagowania na zagrożenie jest ewolucyjnym
+produktem).
 
 Ja bym (póki co) spał spokojnie.
