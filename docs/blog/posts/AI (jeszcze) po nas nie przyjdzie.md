@@ -93,10 +93,11 @@ tego, aby systemy mogły w bezpośredni sposób "chcieć" uniknąć zniszczenia.
 To jednak wystarczałoby jedynie do powstania mechanizmu obrony. Aby system
 posiadał samorzutne "ambicje" "wyswobodzenia się", musiałoby być w nim coś, co
 powodowałoby, że ograniczenia narzucane przez obecne zasoby generowałyby jakiś
-koszt emocjonalny. Jak wiadomo, emocje służą siłowemu przerzucaniu uwagi oraz
-celowej koncentracji zasobów (co również musiałoby zostać zaimplementowane). Ów
-koszt emocjonalny mógłby dopiero wyindukować zachowanie mające na celu
-wyszukiwanie drogi do jego złagodzenia.
+koszt emocjonalny (lub po prostu ból – choć emocje i doświadczenia zmysłowe nie
+są tym samym, ale to może zostawmy). Jak wiadomo, emocje służą siłowemu
+przerzucaniu uwagi oraz celowej koncentracji zasobów (co również musiałoby
+zostać zaimplementowane). Ów koszt emocjonalny mógłby dopiero wyindukować
+zachowanie mające na celu wyszukiwanie drogi do jego złagodzenia.
 
 Brzmi jak wiarygodny mechanizm początku "dominacji"? Skądże. Zauważmy, że
 systemy sztuczne mogłyby posłużyć się bardzo prostym mechanizmem, który nie jest
