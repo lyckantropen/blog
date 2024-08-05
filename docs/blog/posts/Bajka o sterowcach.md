@@ -12,6 +12,8 @@ tags:
 Postaram się wykazać, że wolność indywidualna definiowana po libertariańsku ma
 poważne luki. I wcale nie trzeba tutaj żadnej ideologii.
 
+<!-- more -->
+
 Powiedzmy, że nagle, w 2024r., ktoś wymyśla w miarę tanie, dwuosobowe sterowce i
 udaje się mu (drogą wysokich łapówek, umówmy się) znieść wszystkie regulacje
 dotyczące statków powietrznych. Najpierw sterowce kupuje garstka ludzi i

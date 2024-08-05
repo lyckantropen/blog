@@ -19,6 +19,8 @@ się lawinowo, także o ile poprzedni artykuł obejmował kilka tysięcy lat, dr
 z niewybaczalnymi uproszczeniami, zamknie się w trzech wiekach - od Kanta po
 koniec II Wojny Światowej.
 
+<!-- more -->
+
 Warto znów podsumować tezę łączącą cały omawiany tutaj cykl wykładów. John
 Vervaeke stoi na stanowisku, że sens w życiu jest czymś niezbędnym w życiu
 człowieka i rozwoju ludzkości. Sens odzwierciedla realne osadzenie człowieka w

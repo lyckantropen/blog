@@ -16,6 +16,8 @@ inteligencji (jak chociażby LLM-y) – nie ma powodów, aby oczekiwać, że naw
 "nadludzka" sztuczna ogólna inteligencja mogłaby być w ogóle zainteresowana
 jakąkolwiek "dominacją" nad ludzkością.
 
+<!-- more -->
+
 Przez gmin rozumiem tutaj przede wszystkim środowiska zainteresowane praktycznie
 wyłącznie inżynierią i skupione na rozwoju algorytmów w obecnym paradygmacie
 uczenia maszynowego opartego o dane, wraz z wyrosłymi na jej gruncie bądź to

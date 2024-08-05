@@ -21,6 +21,8 @@ przekaz dobitnie wybrzmiał.
 
 ![[Pasted image 20240629132529.png]]
 
+<!-- more -->
+
 Niemniej - jest co porównywać. Obaj poruszają temat dogłębnie odczuwanego przez
 wielu ludzi żyjących w zlaicyzowanych, wysoko rozwiniętych społeczeństwach
 Zachodu braku życiowego celu czy też poczucia sensu. Obaj odnoszą się z jednej
