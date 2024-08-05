@@ -25,6 +25,7 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.tabs
     - toc.follow
     - toc.integrate 
 
