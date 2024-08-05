@@ -1,6 +1,7 @@
 # About me
 
+![[selfie.jpeg]]
+
 ## Karol Trojanowski
 
-Cognitive science.
-
+Cognitive science, data, software and stuff.
