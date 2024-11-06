@@ -33,9 +33,9 @@ niebieskimi, stanie się czary-mary i Dow Jones poszybuje do góry.
 
 Nienawiść, gniew, przemoc i rasizm można jeszcze jakoś zrozumieć. Jest w tym coś
 z przednowoczesnej, surowej autentyczności. W świecie skrajnego elektoratu
-Trumpa przynajmniej istnieją jakieś namacalne części rzeczywistości - moje
+Trumpa przynajmniej istnieją jakieś namacalne części rzeczywistości – moje
 emocje, moja okolica, moja rodzina, moja praca, mój wróg, moje bezpieczeństwo,
-moje zdrowie, moja śmierć. Nawet, jeżeli co do istnienia wrogów i zagrożeń
+moje zdrowie, moja śmierć. Nawet jeżeli co do istnienia wrogów i zagrożeń
 zostałem okłamany – w jakimś sensie przyjmuję wobec nich "ontologiczne
 zobowiązanie" i żyję tak, jakby istniały. Przynajmniej w moim postrzeganiu ten
 wróg to jakiś prawdziwy człowiek, grupa lub instytucja.
@@ -83,5 +83,5 @@ upiornej z heglowskich rzeczywistości kapitalizm doświadczył syntezy z
 postmodernizmem i możliwe, że skończy się to dla nas jak najgorzej. Bo
 materialna rzeczywistość da o sobie znać. A ta ekonometryczna metafizyka tak
 naprawdę warunkowana jest bezpieczeństwem jednostek, które mogą sobie pozwolić
-na przymykanie oko na huragany. A bezpieczeństwo to mimo wszystko zależy od
+na przymykanie oka na huragany. A bezpieczeństwo to mimo wszystko zależy od
 materialnej rzeczywistości całej reszty ludzi.
