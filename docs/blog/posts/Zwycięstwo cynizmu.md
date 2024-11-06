@@ -10,12 +10,13 @@ categories:
 
 # Zwycięstwo cynizmu
 
-Antybohaterami dzisiaj nie są faszyści, rasiści ani nawet wykluczona klasa
-robotnicza, okłamana przez Trumpa, że dzięki niemu znowu będzie się liczyć.
-Głównym antybohaterem jest Elon Musk, a kroczy za nim kordon milionerów,
-spekulantów, inwestorów Venture Capital, _C-suite executives_ i wicedyrektorów z
-Doliny Krzemowej, zwieńczany szeregami mniejszych i większych inwestorów
-giełdowych, ze zwykłymi fanboyami Elona (i jemu podobnych) na końcu.
+Antybohaterami dzisiaj nie jest największa część elektoratu Trumpa. Nie są to
+nawet faszyści, rasiści czy też wykluczona klasa robotnicza, okłamana przez
+Trumpa, że dzięki niemu znowu będzie się liczyć. Głównym antybohaterem jest Elon
+Musk, a kroczy za nim kordon milionerów, spekulantów, inwestorów Venture
+Capital, _C-suite executives_ i wicedyrektorów z Doliny Krzemowej, zwieńczany
+szeregami mniejszych i większych inwestorów giełdowych, ze zwykłymi fanboyami
+Elona (i jemu podobnych) na końcu.
 
 Ta grupa jest oczywiście szersza, ale ten elektorat techniczny jest dla mnie tak
 jaskrawy poprzez połączenie z nieproporcjonalną koncentracją władzy i aktywów
