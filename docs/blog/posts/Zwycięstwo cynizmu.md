@@ -75,12 +75,18 @@ rozwoju podobnych platform politycznych dzięki swojej mocy wybielania
 indywidualnych decyzji. Jeżeli to prawda, że cynizm staje się dominującym
 światopoglądem, to w dłuższej perspektywie pod indywidualną "zaradność" będzie
 się dało podciągnąć właściwie wszystko. Całą resztę stanowić będzie "naiwność".
-Na czele z kierowaniem się jakimiś tam wartościami i niemyśleniem wyłącznie o
-sobie.
+Na start do tej szufladki trafiają kierowanie się jakimiś tam wartościami i
+niemyślenie wyłącznie o sobie.
 
 Nie tylko Trump wygrał. Wygrał cynizm. Cynizm, który pożre świat. W najbardziej
 upiornej z heglowskich rzeczywistości kapitalizm doświadczył syntezy z
-postmodernizmem i możliwe, że skończy się to dla nas jak najgorzej. Bo
+postmodernizmem. O ironio! Największymi praktykami postmodernizmu są wyborcy (a
+także piewcy, w tym polscy) Trumpa! No bo powiedzmy sobie szczerze – cynizm, a
+także idąca za nim antysystemowość, to nie są w ogóle poglądy prawicowe – w
+tradycyjnym sensie. Tam nie ma w ogóle żadnej charakterystycznej dla prawicy
+pryncypialności. Właściwie to w ogóle nie jest pogląd, tylko wyuczony styl
+poznawczy. Przyczyn tego można szukać długo i warto się nad tym pochylić, ale to
+materiał na całe tomy. Możliwe, że skończy się to dla nas jak najgorzej. Bo
 materialna rzeczywistość da o sobie znać. A ta ekonometryczna metafizyka tak
 naprawdę warunkowana jest bezpieczeństwem jednostek, które mogą sobie pozwolić
 na przymykanie oka na huragany. A bezpieczeństwo to mimo wszystko zależy od
