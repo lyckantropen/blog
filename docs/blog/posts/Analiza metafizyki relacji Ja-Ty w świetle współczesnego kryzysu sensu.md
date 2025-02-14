@@ -3,6 +3,7 @@ date: 2025-01-27
 categories:
   - filozofia
   - kognitywistyka
+  - john vervaeke
 slug: buber-vervaeke
 title: Analiza metafizyki relacji Ja-Ty w świetle współczesnego kryzysu sensu
 tags:
