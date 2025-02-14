@@ -403,43 +403,33 @@ wyeksponowania z pewnością jeszcze się nie wyczerpały.
 
 ## Literatura
 
-Bellah, R. N. (2005). What Is Axial about the Axial Age? _European Journal of
-Sociology_, _46_(1), 69–89. <https://doi.org/10.1017/S0003975605000032>
-
-Buber, M. (1992). _Ja i Ty: Wybór Pism Filozoficznych_ (J. Doktór, Tłum.).
-Instytut Wydawniczy Pax.
-
-Fromm, E. (2007). _To Have or to Be?_ Continuum.
-
-Geertz, C. (2017). _The Interpretation of Cultures_. Basic books.
-
-Jaspers, K. (2021). _The Origin and Goal of History_ (1. wyd.). Routledge.
-<https://doi.org/10.4324/9781003133674>
-
-Taylor, C. (2007). _A Secular Age_. Harvard University Press.
-<https://doi.org/10.4159/9780674044289>
-
-Vervaeke, J. (b.d.). Awakening from the Meaning Crisis \[Playlist\]. W
-_YouTube_.
-http://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ.
-
-Vervaeke, J., Lillicrap, T. P., & Richards, B. A. (2012). Relevance Realization
-and the Emerging Framework in Cognitive Science. _Journal of Logic and
-Computation_, _22_(1), 79–99. <https://doi.org/10.1093/logcom/exp067>
-
-Vervaeke, J., & Mastropietro, C. (2021). Dialectic into Dialogos and the
-Pragmatics of No-thingness in a Time of Crisis. _Eidos. A Journal for Philosophy
-of Culture_, _5_(2), 58–77. <https://doi.org/10.14394/eidos.jpc.2021.0017>
-
-Vervaeke, J., & Mastropietro, C. (2024). _Awakening from the Meaning Crisis:
-Part One: Origins_ (S. Coyne, Red.). Story Grid Publishing LLC.
-
-Wieczorek, K. T. (2024). _Wokół Innego. Relacje Międzyludzkie w Ujęciu
-Filozoficznym_ \[Lectures\].
-https://usosweb.us.edu.pl/kontroler.php?\_action=katalog2/przedmioty/pokazGrupyZajec&zaj_cyk_id=369305.
-
-Wolf, S. (2010). _Meaning in Life and Why It Matters_. Princeton University
-Press. <https://doi.org/10.2307/j.ctt7t3cm>
+- Bellah, R. N. (2005). What Is Axial about the Axial Age? _European Journal of
+  Sociology_, _46_(1), 69–89. <https://doi.org/10.1017/S0003975605000032>
+- Buber, M. (1992). _Ja i Ty: Wybór Pism Filozoficznych_ (J. Doktór, Tłum.).
+  Instytut Wydawniczy Pax.
+- Fromm, E. (2007). _To Have or to Be?_ Continuum.
+- Geertz, C. (2017). _The Interpretation of Cultures_. Basic books.
+- Jaspers, K. (2021). _The Origin and Goal of History_ (1. wyd.). Routledge.
+  <https://doi.org/10.4324/9781003133674>
+- Taylor, C. (2007). _A Secular Age_. Harvard University Press.
+  <https://doi.org/10.4159/9780674044289>
+- Vervaeke, J. (b.d.). Awakening from the Meaning Crisis \[Playlist\]. W
+  _YouTube_.
+  <http://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ>.
+- Vervaeke, J., Lillicrap, T. P., & Richards, B. A. (2012). Relevance
+  Realization and the Emerging Framework in Cognitive Science. _Journal of Logic
+  and Computation_, _22_(1), 79–99. <https://doi.org/10.1093/logcom/exp067>
+- Vervaeke, J., & Mastropietro, C. (2021). Dialectic into Dialogos and the
+  Pragmatics of No-thingness in a Time of Crisis. _Eidos. A Journal for
+  Philosophy of Culture_, _5_(2), 58–77.
+  <https://doi.org/10.14394/eidos.jpc.2021.0017>
+- Vervaeke, J., & Mastropietro, C. (2024). _Awakening from the Meaning Crisis:
+  Part One: Origins_ (S. Coyne, Red.). Story Grid Publishing LLC.
+- Wieczorek, K. T. (2024). _Wokół Innego. Relacje Międzyludzkie w Ujęciu
+  Filozoficznym_ \[Lectures\].
+  <https://usosweb.us.edu.pl/kontroler.php?\_action=katalog2/przedmioty/pokazGrupyZajec&zaj_cyk_id=369305>.
+- Wolf, S. (2010). _Meaning in Life and Why It Matters_. Princeton University
+  Press. <https://doi.org/10.2307/j.ctt7t3cm>
 
 [^1]:
     Pod tytułem "Awakening from the Meaning Crisis" na przestrzeni lat 2018-2019
