@@ -1,7 +1,7 @@
 ---
 date: 2024-08-05
 slug: jak-oni-smia
-draft:
+draft: false
 tags:
 categories:
   - polityka

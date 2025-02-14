@@ -1,7 +1,7 @@
 ---
 date: 2024-11-06
 slug: zwyciestwo-cynizmu
-draft:
+draft: false
 tags:
 categories:
   - polityka

@@ -15,7 +15,7 @@ z pracy”, tym bardziej, że panowie bywają widywani razem i odbyli w ostatnic
 latach kilka rozmów, które zostały zarejestrowane i są dostępne na YouTube.
 Uważam to odwołanie za konieczne, ponieważ czytelnicy mogliby poczuć się
 oszukani, jeżeli bym ten fakt zostawił zupełnie bez komentarza i dowiedzieliby
-się o nim niezależnie. Jest to jednak konieczność przykra, bo John Vervaeke nie
+się o nim niezależnie. Jest to jednak konieczność przykra, bo [[John Vervaeke]] nie
 potrzebuje ani Jordana Petersona, ani bycia z nim porównywanym, żeby jego
 przekaz dobitnie wybrzmiał.
 
@@ -60,7 +60,7 @@ dóbr i usług, z drugiej - nowoczesność daje im to i nic więcej. Kim jestem?
 mam robić? Jaki jest *sens* tego wszystkiego? *Po co* to wszystko? Jedyne, co
 nowoczesność jest w stanie odpowiedzieć, to: *jesteś wolny*.
 
-Problematyczność takiego położenia to również kwestia, w której John Vervaeke
+Problematyczność takiego położenia to również kwestia, w której [[John Vervaeke]]
 zgadza się z Jordanem Petersonem. Ponadto obaj nie akceptują rozwiązania: *deal
 with it*. Odpowiedź, że w tej sytuacji należy *po prostu nauczyć się z tym żyć*,
 jest niewystarczająca. Poczucie sensu jest zbyt głęboko zakorzenione w

@@ -1,7 +1,7 @@
 ---
 date: 2024-08-04
 slug: ai-emocje
-draft:
+draft: false
 tags:
 categories:
   - kognitywistyka
