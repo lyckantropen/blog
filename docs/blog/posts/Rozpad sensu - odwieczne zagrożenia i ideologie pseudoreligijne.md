@@ -11,6 +11,8 @@ tags:
 
 Część pierwsza: [[Jak rewolucja naukowa zniszczyła sens]]
 
+[TOC]
+
 # Filozofia Johna Vervaekego - Część II
 
 W poprzedniej części omawiałem część historii kryzysu sensu w rozumieniu Johna

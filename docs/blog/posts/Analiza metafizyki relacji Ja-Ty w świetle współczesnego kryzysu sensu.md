@@ -9,6 +9,8 @@ tags:
 draft: false
 ---
 
+[TOC]
+
 # Analiza metafizyki relacji _Ja-Ty_ w świetle współczesnego kryzysu sensu
 
 Niniejszy esej podejmuje próbę zestawienia myśli Martina Bubera, wyrażonej w
