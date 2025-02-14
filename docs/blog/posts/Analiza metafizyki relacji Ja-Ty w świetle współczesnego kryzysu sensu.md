@@ -313,7 +313,7 @@ nostalgicznego powrotu do dawnego porządku:
 > to address the meaning crisis \[...\] (Vervaeke, b.d., s. odc.26, transkrypcja
 > własna)
 
-––––––––––––––––––––––––––––––––––––
+---
 
 Podsumowując zasadniczą część niniejszej pracy, chciałbym wskazać na przywołane
 wyżej argumenty za twierdzeniem, że intuicje Bubera wyrażone w pierwszej części
