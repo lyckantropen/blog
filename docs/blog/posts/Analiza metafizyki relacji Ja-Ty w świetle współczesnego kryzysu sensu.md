@@ -4,7 +4,7 @@ categories:
   - filozofia
   - kognitywistyka
 slug: buber-vervaeke
-title: Analiza metafizyki relacji *Ja-Ty* w świetle współczesnego kryzysu sensu
+title: Analiza metafizyki relacji Ja-Ty w świetle współczesnego kryzysu sensu
 tags:
 draft: false
 ---
