@@ -8,6 +8,8 @@ tags:
 draft: false
 ---
 
+# Nie głosujcie na Mentzena
+
 Mówię to jako były wyborca Janusza Korwin-Mikkego; jako ktoś, kto w 2014 r.
 osobiście zaniósł Bronisławowi Foltynowi listę z podpisami zebranymi wśród
 znajomych. Tak, dałem się na to nabrać i dawałem nabierać przez wiele lat.
