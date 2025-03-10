@@ -9,15 +9,6 @@ title: Analiza metafizyki relacji Ja-Ty w świetle współczesnego kryzysu sensu
 tags:
 draft: false
 ---
-Research has indeed explored the idea that conspiracy theorists may unconsciously pursue group identification through their beliefs. Here are some key findings:
-
-1. **Group Identification**: Conspiracy theorists often self-identify as activists, which can enhance their sense of belonging to a group that shares similar beliefs. This group identification can provide a sense of purpose and community, reinforcing their commitment to conspiracy theories .
-
-2. **Rejection-Identification Model**: Studies have shown that perceived discrimination against conspiracy theorists can strengthen their identification with the group. This dynamic is particularly pronounced when the discrimination comes from authority figures, reinforcing the in-group solidarity among conspiracy theorists .
-
-3. **Collective Narcissism**: Research indicates that collective narcissism, where individuals have an exaggerated sense of their group's importance, can foster conspiracy beliefs. This phenomenon allows individuals to defend their group's image by blaming out-groups for perceived injustices, further enhancing group cohesion .
-
-These findings suggest that the pursuit of group identification plays a significant role in the adoption and maintenance of conspiracy beliefs. Conspiracy theorists may find comfort and validation within a community that shares their views, which can reinforce their commitment to these beliefs.
 # Analiza metafizyki relacji _Ja-Ty_ w świetle współczesnego kryzysu sensu
 
 Niniejszy esej podejmuje próbę zestawienia myśli Martina Bubera, wyrażonej w
