@@ -7,6 +7,7 @@ categories:
   - john vervaeke
 tags: []
 ---
+
 # Filozofia Johna Vervaekego - Część I
 
 Oto artykuł o kanadyjskim psychologu pracującym na Uniwersytecie w Toronto. I
@@ -15,8 +16,8 @@ z pracy”, tym bardziej, że panowie bywają widywani razem i odbyli w ostatnic
 latach kilka rozmów, które zostały zarejestrowane i są dostępne na YouTube.
 Uważam to odwołanie za konieczne, ponieważ czytelnicy mogliby poczuć się
 oszukani, jeżeli bym ten fakt zostawił zupełnie bez komentarza i dowiedzieliby
-się o nim niezależnie. Jest to jednak konieczność przykra, bo John Vervaeke nie
-potrzebuje ani Jordana Petersona, ani bycia z nim porównywanym, żeby jego
+się o nim niezależnie. Jest to jednak konieczność przykra, bo John Vervaeke
+nie potrzebuje ani Jordana Petersona, ani bycia z nim porównywanym, żeby jego
 przekaz dobitnie wybrzmiał.
 
 ![[Pasted image 20240629132529.png]]
@@ -60,12 +61,12 @@ dóbr i usług, z drugiej - nowoczesność daje im to i nic więcej. Kim jestem?
 mam robić? Jaki jest *sens* tego wszystkiego? *Po co* to wszystko? Jedyne, co
 nowoczesność jest w stanie odpowiedzieć, to: *jesteś wolny*.
 
-Problematyczność takiego położenia to również kwestia, w której John Vervaeke
-zgadza się z Jordanem Petersonem. Ponadto obaj nie akceptują rozwiązania: *deal
-with it*. Odpowiedź, że w tej sytuacji należy *po prostu nauczyć się z tym żyć*,
-jest niewystarczająca. Poczucie sensu jest zbyt głęboko zakorzenione w
-ewolucyjnej historii ludzkiego mózgu, żeby zadowalającym wyjściem było jego
-wyciszenie.
+Problematyczność takiego położenia to również kwestia, w której
+John Vervaeke zgadza się z Jordanem Petersonem. Ponadto obaj nie akceptują
+rozwiązania: *deal with it*. Odpowiedź, że w tej sytuacji należy *po prostu
+nauczyć się z tym żyć*, jest niewystarczająca. Poczucie sensu jest zbyt głęboko
+zakorzenione w ewolucyjnej historii ludzkiego mózgu, żeby zadowalającym wyjściem
+było jego wyciszenie.
 
 Vervaeke różni się jednak od Petersona diametralnie, jeśli chodzi o proponowane
 rozwiązania. Zamiast serwować przepisy, zaczyna od próby zrozumienia kryzysu
@@ -77,7 +78,8 @@ historycznymi, szkołami filozoficznymi i tradycjami mądrości.
 
 Analiza zagadnienia kryzysu sensu obejmuje 50 filmów udostępnionych na kanale
 Vervaekego na YouTube. Jest to seria godzinnych, świetnie przygotowanych
-wykładów, zatytułowana [_Awakening From The Meaning Crisis_](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) (_Przebudzenie
+wykładów,
+zatytułowana [_Awakening From The Meaning Crisis_](https://www.youtube.com/playlist?list=PLND1JCRq8Vuh3f0P5qjrSdb5eC1ZfZwWJ) (_Przebudzenie
 z Kryzysu Sensu_). Vervaeke, wychodząc od postawienia problemu, opisuje
 kognitywną historię gatunku ludzkiego, począwszy od prehistorii, przez
 starożytność, antyk, średniowiecze, rewolucję naukową, aż do współczesności. Ta
