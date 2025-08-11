@@ -267,7 +267,7 @@ efektem fanatyzmu, lecz długotrwałego braku uznania i komunikacyjnej asymetrii
 między instytucją a jednostką.
 
 Z tej perspektywy zrozumiałe staje się, dlaczego niektóre intuicje ruchów
-kontestujących obowiązki szczepienne rezonują z Foucaultowską analizą
+kontestujących obowiązki szczepień rezonują z Foucaultowską analizą
 biopolityki – nawet jeśli czynią to w sposób uproszczony lub nieświadomy. To,
 co początkowo może wydawać się paradoksalne – że środowiska antyszczepionkowe
 sięgają po język krytyczny wobec władzy – w rzeczywistości może być sygnałem,
