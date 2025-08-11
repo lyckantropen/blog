@@ -1,4 +1,4 @@
-–-
+---
 date: 2025-08-11
 categories:
   - teorie spiskowe
@@ -11,7 +11,7 @@ tags:
   - biopolityka
   - szczepionki
 draft: false
-–-
+---
 
 # Współczesne kontestacje antyszczepionkowe a krytyka biopolityczna
 
