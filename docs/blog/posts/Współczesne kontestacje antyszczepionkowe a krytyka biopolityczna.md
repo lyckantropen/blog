@@ -4,7 +4,7 @@ categories:
   - teorie spiskowe
   - kognitywistyka
 slug: antyszczepionkowcy-foucault
-title: Nie głosujcie na Mentzena
+title: Współczesne kontestacje antyszczepionkowe a krytyka biopolityczna
 tags:
   - postmodernizm
   - Foucault
